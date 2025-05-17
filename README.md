@@ -24,10 +24,11 @@ A modern, secure, and beautiful real-time **chat application** built with **Jetp
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light](![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/35cee4c2-cd0a-4239-89a6-1f20aab0ee64)) | ![Dark](![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/b5079c26-93a1-4696-be75-e4144ff945eb)) |
+| ![Light](![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/fdbc1492-46ce-44c7-bae7-201778af00fb)) | ![Dark](![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/e77c39cd-57f4-4ded-a3c4-826c981ab3f6)) |
 | ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
 | ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
 | ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
+
 ---
 
 ## 🛠️ Tech Stack
