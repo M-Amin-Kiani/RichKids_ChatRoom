@@ -1,4 +1,4 @@
-![photo_6_2025-05-18_01-10-36](https://github.com/user-attachments/assets/45cc438a-9cac-409b-84d0-59e674bb6d0d)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/RichKids_ChatRoom)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/RichKids_ChatRoom)
 
 # 💬 RichKids ChatRoom
 
