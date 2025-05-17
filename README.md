@@ -1,4 +1,4 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yazdanafra/ChatRoom)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/RichKids_ChatRoom)
 
 # 💬 RichKids ChatRoom
 
@@ -64,6 +64,3 @@ Created with ❤️ by **M. Amin Kiani**
 
 ---
 
-## 📃 License
-
-This project is under the [MIT License](LICENSE).
