@@ -27,7 +27,7 @@ A modern, secure, and beautiful real-time **chat application** built with **Jetp
 |![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/08dc1106-267d-41cb-8401-29e7e646afec) |![photo_5_2025-05-18_01-10-36](https://github.com/user-attachments/assets/6991fcd2-3c85-464b-9cbc-7c7d4904a776)
 |![photo_4_2025-05-18_01-10-36](https://github.com/user-attachments/assets/35cc2fe0-0948-4e74-ae89-7c50b91aba69) |![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/6c6babcf-4a18-441b-9b5d-ca7f03cb9116)
 |![photo_3_2025-05-18_01-10-36](https://github.com/user-attachments/assets/cab76994-7028-442e-8456-67f380d0c591) |![photo_6_2025-05-18_01-10-36](https://github.com/user-attachments/assets/a5caceff-1298-4202-8058-0b0f0e40b27d)
-|![image](https://github.com/user-attachments/assets/1b5a1821-e4f8-4511-b6db-69788f329ecd) |
+|![photo_7_2025-05-18_01-10-36](https://github.com/user-attachments/assets/1b5a1821-e4f8-4511-b6db-69788f329ecd) |
 
 ---
 
