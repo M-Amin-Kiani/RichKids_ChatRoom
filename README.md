@@ -1,4 +1,4 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/RichKids_ChatRoom)
+![photo_6_2025-05-18_01-10-36](https://github.com/user-attachments/assets/45cc438a-9cac-409b-84d0-59e674bb6d0d)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/M-Amin-Kiani/RichKids_ChatRoom)
 
 # 💬 RichKids ChatRoom
 
@@ -24,12 +24,10 @@ A modern, secure, and beautiful real-time **chat application** built with **Jetp
 
 | Light Mode | Dark Mode |
 |------------|-----------|
+| ![Light](![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/35cee4c2-cd0a-4239-89a6-1f20aab0ee64)) | ![Dark](![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/b5079c26-93a1-4696-be75-e4144ff945eb)) |
 | ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
-| ![Light](![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/2cec18cd-75be-4705-aec2-f053bdbe2f5f)) | ![Dark](![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/651f4aa5-6160-42a4-b92a-70df9a2256d7)) |
-| ![Light](![photo_3_2025-05-18_01-10-36](https://github.com/user-attachments/assets/4b135b6c-14d4-40ed-860b-ca159c5ff9b0)) | ![Dark](![photo_4_2025-05-18_01-10-36](https://github.com/user-attachments/assets/b931dd0d-0636-4a65-ae7c-a2cefab8497c)) |
-| ![Light](![photo_5_2025-05-18_01-10-36](https://github.com/user-attachments/assets/fd6e937b-4bac-4dfb-93e0-224e73650478)) | ![Dark](![photo_6_2025-05-18_01-10-36](https://github.com/user-attachments/assets/a90585bd-83d8-4af2-9270-dc1f11f811f6)) |
-| ![Light](![image](https://github.com/user-attachments/assets/479dfd18-e82f-45db-9eed-de4a84326f74)) |
-
+| ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
+| ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
 ---
 
 ## 🛠️ Tech Stack
