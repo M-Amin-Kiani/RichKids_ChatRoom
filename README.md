@@ -25,10 +25,10 @@ A modern, secure, and beautiful real-time **chat application** built with **Jetp
 | Light Mode | Dark Mode |
 |------------|-----------|
 | ![Light](assets/light_home.png) | ![Dark](assets/dark_home.png) |
-| ![Light](![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/37b58d70-d932-4a23-9539-d662b395d2f0)) | ![Dark](![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/61a5e66b-485c-4ae9-881e-d09c515b8610)) |
-| ![Light](![image](https://github.com/user-attachments/assets/5774e051-cd48-47ca-8417-44a07c9963b1)) | ![Dark](![photo_3_2025-05-18_01-10-36](https://github.com/user-attachments/assets/95e18901-ed67-4ddd-8adf-51718081199e)) |
-| ![Light](![photo_4_2025-05-18_01-10-36](https://github.com/user-attachments/assets/6d9d9b09-5b91-4967-8ed1-da8455476e7b)) | ![Dark](![photo_5_2025-05-18_01-10-36](https://github.com/user-attachments/assets/21b5bac1-a355-4b45-ac6f-ff45dfafbedb)) |
-| ![Light](![photo_6_2025-05-18_01-10-36](https://github.com/user-attachments/assets/b336276a-f212-4a30-a509-42aba86999e0)) |
+| ![Light](![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/2cec18cd-75be-4705-aec2-f053bdbe2f5f)) | ![Dark](![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/651f4aa5-6160-42a4-b92a-70df9a2256d7)) |
+| ![Light](![photo_3_2025-05-18_01-10-36](https://github.com/user-attachments/assets/4b135b6c-14d4-40ed-860b-ca159c5ff9b0)) | ![Dark](![photo_4_2025-05-18_01-10-36](https://github.com/user-attachments/assets/b931dd0d-0636-4a65-ae7c-a2cefab8497c)) |
+| ![Light](![photo_5_2025-05-18_01-10-36](https://github.com/user-attachments/assets/fd6e937b-4bac-4dfb-93e0-224e73650478)) | ![Dark](![photo_6_2025-05-18_01-10-36](https://github.com/user-attachments/assets/a90585bd-83d8-4af2-9270-dc1f11f811f6)) |
+| ![Light](![image](https://github.com/user-attachments/assets/479dfd18-e82f-45db-9eed-de4a84326f74)) |
 
 ---
 
