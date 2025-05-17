@@ -22,7 +22,7 @@ A modern, secure, and beautiful real-time **chat application** built with **Jetp
 
 ## 📸 Screenshots
 
-| Light Mode | Dark Mode |
+| 1 Mode | 2 Mode |
 |------------|-----------|
 |![photo_1_2025-05-18_01-10-36](https://github.com/user-attachments/assets/08dc1106-267d-41cb-8401-29e7e646afec) |![photo_2_2025-05-18_01-10-36](https://github.com/user-attachments/assets/6c6babcf-4a18-441b-9b5d-ca7f03cb9116)
 |![photo_3_2025-05-18_01-10-36](https://github.com/user-attachments/assets/cab76994-7028-442e-8456-67f380d0c591) |![photo_4_2025-05-18_01-10-36](https://github.com/user-attachments/assets/35cc2fe0-0948-4e74-ae89-7c50b91aba69)
