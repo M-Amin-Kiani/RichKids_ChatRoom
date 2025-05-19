@@ -17,6 +17,7 @@ A modern, secure, and beautiful real-time **chat application** built with **Jetp
 - 👋 **Leave & Delete Channels**
 - 🧑‍🎨 Beautiful **Material3 Design** with custom theming
 - 📷 Send **Image Messages** via camera or gallery
+![all structure](https://github.com/user-attachments/assets/c97c72d0-8bff-4ac8-8388-296b180525f0)
 
 ---
 
