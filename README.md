@@ -64,7 +64,7 @@ run on emulator or physical device (Android 8.0+)
 
 ## ✨ Credits
 
-Created with ❤️ by **M. Amin Kiani**
+Created by **M. Amin Kiani** **Yazdan Afra** **Kimia Arjmand** **Mohadeseh BaghBani** **Nastaran Sarkhosh**
 
 ---
 
