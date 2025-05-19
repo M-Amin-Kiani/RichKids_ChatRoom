@@ -2,7 +2,7 @@
 
 # 💬 RichKids ChatRoom
 
-A modern, secure, and beautiful real-time **chat application** built with **Jetpack Compose**, **Firebase**, and **ZegoCloud** for Android. 
+A modern, secure, and beautiful real-time **chat application** built with **Jetpack Compose**, **Firebase**, and **ZegoCloud** for Android... 
 
 ---
 
